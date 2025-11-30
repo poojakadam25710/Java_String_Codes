@@ -6,7 +6,6 @@
  * case-insensitive, and the program continues to accept input until 
  * the user types "stop". Uses LinkedHashMap to preserve insertion order 
  * while counting occurrences of characters.
- *
  * Author: Pooja Kadam
  */
 
